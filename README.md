@@ -109,7 +109,7 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 <br>
 
-⬛ **New TRIИITY Dashboard** get the demo : [[FanlessTech](https://dashboard.trinity-net.com)](https://dashboard.trinity-net.com)
+⬛ **New TRINITY Dashboard** get the demo : [[FanlessTech](https://dashboard.trinity-net.com)](https://dashboard.trinity-net.com)
 
 <br>
 
@@ -153,7 +153,7 @@ To make it sense, I work on a cool Dashboard for Alpine Linux !
 
 <br>
 
-🟦 **Oct 2024** TRIИITY Gateway become a **boarder router** with **FTTH** from SFR ISP
+🟦 **Oct 2024** TRINITY Gateway become a **boarder router** with **FTTH** from SFR ISP
 
 ![TRINITY FTTH](https://github.com/user-attachments/assets/1c838ce0-ced6-48ae-9cb2-64fc517e8862)
 
