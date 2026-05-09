@@ -1,64 +1,221 @@
-<div align="right" dir="auto">
-<img src="https://user-images.githubusercontent.com/45216746/226208297-32a0371b-83db-4a0e-ae33-70e74ca2b2e5.png" width="1.75%" style="max-width: 100%;">
+<div align="right">
+<img src="https://user-images.githubusercontent.com/45216746/226208297-32a0371b-83db-4a0e-ae33-70e74ca2b2e5.png" width="1.75%">
 </div>
+
 <br>
-<br>
-<div align="center" dir="auto">
-<img src="https://github.com/user-attachments/assets/0fb9fb12-6116-42d4-bc38-4d3eb94a6af7" style="width: 33%;">
+
+<div align="center">
+<img width="33%" alt="logo-unyport-icon" src="https://github.com/user-attachments/assets/57711888-cdf5-48a6-9857-492ad65c50ec" />
 </div>
+
 <br>
+
+# TRINITY Edge Networks 
+*(2026 #FrenchSec StartUp)*
+
 <br>
 
-# Pocket IoT Mainframe
-*(aka Pocket Mainframe)*
+A personal journey into low-powered computing, sovereign infrastructure and minimalist design.
+Re-use. Repair. Upgrade. A virtuous cycle.
+
+🟥 Stay connected on [Reddit](https://www.reddit.com/r/PocketMainframe/) · [Mastodon](https://defcon.social/@trinity)
+
+---
+
+<br><br>
+
+🟪 **2026 — Official Launch of TRINITY for the Francophonie**
+
+After years of research, hardware iterations and solo development — **TRINITY** goes public.
+
+**TRINITY** is still growing! The paradigm becomes a product.
+
+<br><br>
+
+🟧 **#DownTheBastion** — Sovereign OVH server upgraded to TRINITY infrastructure as a public CTF bastion for bug bounty.
+Exposed to the internet. No scenario. No hint. No net.
+
+```
+Intrusion attempts    7 349
+Successful breaches       0
+```
+
 <br>
+<div align="center">
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/22bf2f35-068a-4ec1-889c-b31747145e0c" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="40%" alt="alpine-linux" src="https://github.com/user-attachments/assets/9c03e2a3-dcd7-47f6-a568-aa5f87b31dd8" />
+</div>
+
+<br><br>
+
+🟦 **UnyPort** — Dashboard upgraded from Alpine ACF/Lua to a full Go rewrite.
+Single binary · Single port · Xen-aware · OAuth GitHub/GitLab · Real-time metrics.
+
 <br>
-**Begin of the story** - Re-use a screen broken laptop motherboard to get an home server, home theater and small Nas. Board from:
 
-🟪 **2020 Discovering Power of Low Powered** Progress is such that it becomes interesting to use them in server applications with a little help from my friend Alpine Linux
+<img width="1570" height="1241" alt="image" src="https://github.com/user-attachments/assets/a45148c0-3d87-47ae-bb18-2431743d9fc3" />
+→ [dashboard.trinity-net.com](https://dashboard.trinity-net.com)
 
-**TOSHIBA P875-101**
-- 4 DDR3 Up to 32Go
-- Intel Core i7 3610QM - 4 Cores | 8 Threads - TDP 45W - *No fanless yet but semi-passive*
-- NVIDIA GeForce GT 640M
-- 3 SATA III (convert optical drive)
-- 1 HDMI
-- 1 LAN
-- 1 LVDS
-- 2 USB3
-- Battery Removed - Low powered @ 90W power supply
+<br><br>
 
-🧪 <ins>**Prototype 2020**</ins>
+🟪 **Stack released in 2026 :**
 
-![Image](https://user-images.githubusercontent.com/45216746/256324634-31182e39-67ad-4231-b7aa-39bce59471ee.jpeg)
+- **Bun** — JavaScript runtime for the TRINITY backend platform
+- **Hono** — Lightweight TypeScript web framework
+- **Go** — UnyPort rewritten from scratch in Go
+- **Xen Type-1** — Multi-hypervisor orchestration
+- **Alpine Linux FR** — Lab platform for francophone sysadmins
+- **ALICE Certification** — A1 Foundation · A2 Engineer · A3 Architect
 
-**Then want to find and test in a well know Thin Mini-ITX standard**
+<br><br>
 
-Since⚡cost more and more - It's important to power saving all my electrical material, and preserve the planet at my scale 🌳 So PCs and Server are warmly involved... 
+🟫 **Continuous downsizing** — Second MITAC PD10-ANI deployed as TRINITY Edge Node.
+9W TDP. Fanless. Full system in RAM. LBU commit.
 
-*(2x 500W = 1000W power supply previous 2020 config)*
+<br>
 
-So at this point, I'm convinced that I now need material that I can easily **re-use/repair/upgrade** - 3 essential points.
+<div align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/5f0ab7af-82ac-4e51-a810-15cf31037ffe">
+</div>
 
-**A virtuous cycle!**
+<br><br>
 
-🟪 **TRINITY Project** was born<br> 
+⬛ **UnyPort Dashboard** — live on TRINITY infrastructure
 
-So to test it in prod env, I need a basic material, according to my old one (LGA 1150) and my new philosophy. So I'm gone to search an industrial grade thin mini-ITX
-Find this one refurbished:
+Downsizing also the app and refactor Lua to Go to handle Xen GUI webmin orchestration !
+BETA Version - User limited credential scope for demo
+
+<div align="center">
+<img width="2201" height="1271" alt="image" src="https://github.com/user-attachments/assets/c72eb842-76ba-49cb-af98-6bc5aba6fb80" />
+</div>
+
+→ [dashboard.trinity-net.com](https://dashboard.trinity-net.com)
+→ [trinity-net.com](https://trinity-net.com)
+
+---
+
+<br><br>
+
+🟪  **2026 — New Year For TRINITY - Build Strong Infrastructure**
+
+Keep hardware in mind with continous devellopement of our future sovereignty, no license, industrial grade low powered solutions
+
+<br>
+
+<img width="1402" height="1122" alt="trinity-mainframe" src="https://github.com/user-attachments/assets/4fc6a194-bddf-4a93-b43e-c4aea9179ed6" />
+
+
+
+<br><br>
+
+🟪 **2025 — Downsizing Deployment**
+
+TRINITY Project still growing — low-powered embedded system for mobile 8V/24V environments with tracker option.
+
+**MITAC PD10-ANI**
+- 1 DDR5 16Go SAMSUNG
+- Intel Core i3 N-305 — 8 Cores | 8 Threads — TDP **9W** — Fanless
+- Integrated Graphics up to 1.25Go
+- **1 SATA III** · **4 M2**
+- 1 HDMI · 2 LAN 2.5Gbs · 1 LVDS
+- **4 USB3** · **1 PCIe X1**
+
+🧪 <ins>**Prototype 2025**</ins>
+
+<div align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/3ca5b6d8-74af-4367-87e6-4f45c15dbcfb">
+</div>
+
+<br><br>
+
+⬛ **Alpinec ACF Dashboard** — Lua ACF live on TRINITY infrastructure (Archived Project)
+
+<div align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/41f02acc-7c11-45e9-833d-1d2e80e5af24">
+<img width="100%" src="https://github.com/user-attachments/assets/9220267a-e4d2-4d97-b282-ef4499b6b866">
+</div>
+
+→ [dashboard.trinity-net.com](https://dashboard.trinity-net.com)
+
+---
+
+<br><br>
+
+🟨 **Jan 2025 — GPON Fine Tuning**
+
+Speedtest · GPON optimization (XPON when ISP allowing) · NFtables · Untag VLANs on Alpine to preserve PON stick · WiFi 5 optimization · Working on **eBPF XDP**
+
+<div align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/fc9bfff0-1685-4a55-b591-e22c19947166">
+</div>
+
+---
+
+<br><br>
+
+🟦 **Oct 2024 — TRINITY becomes Border Router**
+
+TRINITY Gateway upgraded to full **FTTH** border router from SFR ISP.
+
+<div align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/1c838ce0-ced6-48ae-9cb2-64fc517e8862">
+</div>
+
+---
+
+<br><br>
+
+🟫 **Aug 2024 — Testing Case**
+
+Pre-production test before final hardware acquisition.
+
+<div align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/20c648ae-967a-4fa9-8ba7-b5c8af24dca0">
+<img width="100%" src="https://github.com/user-attachments/assets/ad8c1d10-9c92-4012-99dc-50656b84db95">
+</div>
+
+---
+
+<br><br>
+
+🟪 **2024 — UPGRADE for FTTH**
+
+Upgrade to a more capable fanless board to handle full FTTH throughput and GPON PCIe card.
+
+**AAEON EMB-Q87A**
+- 2 DDR3 16Go G-SKILL
+- Intel Core i7 4785T — 4 Cores | 8 Threads — TDP **35W** — Fanless
+- Integrated Graphics up to 1Go
+- **4 SATA III** · **1 mSATA III**
+- 1 HDMI · 2 LAN · 1 LVDS
+- **4 USB3** · **1 PCIe X4** (GPON Stick)
+- **Low powered @ 160W GAN power supply**
+
+🧪 <ins>**Prototype 2024**</ins>
+
+---
+
+<br>
+
+🟫 **2023 — FanlessTech & First Dashboard**
+
+Hardware featured on **[FanlessTech](https://www.fanlesstech.com/2023/05/750g-copper-cooler.html)**.
+First TRINITY Dashboard released — Alpine Linux ACF/Lua.
+
+---
+
+<br><br>
+
+🟪 **2022 — TRINITY Project Born**
+
+First industrial-grade fanless board. The philosophy becomes hardware.
 
 **AAEON EMB-H81B**
 - 2 DDR3 Up to 16Go
-- Intel Core i3 4160T - 2 Cores | 4 Threads - TDP 35W - Fanless
+- Intel Core i3 4160T — 2 Cores | 4 Threads — TDP **35W** — Fanless
 - Integrated Graphics up to 1Go
-- 2 SATA III
-- 1 SATA II + 1 mSATA II 
-- 1 HDMI
-- 2 LAN
-- 1 LVDS
-- 2 USB3
-- 1 PCIe X1 (4 LAN basic NICs to build a gateway)
-- Standard PC I/O
+- 2 SATA III · 1 SATA II · 1 mSATA II
+- 1 HDMI · 2 LAN · 1 LVDS
+- 2 USB3 · **1 PCIe X1** (4-port LAN NIC for gateway)
 - Low powered @ 120W power supply
 
 🧪 <ins>**Prototype 2022**</ins>
@@ -67,127 +224,60 @@ Find this one refurbished:
 
 **See on | [FanlessTech](https://www.fanlesstech.com/2023/05/750g-copper-cooler.html)**
 
-**This is an important achieve goal here.** Set test & stress on this x86 fanless board:
+Three essential choices validated here :
+- Alpine Linux as the OS foundation
+- LGA sockets (Intel or AMD)
+- So-DIMM RAM · SATA or NVMe
 
-- Definitly choose Alpine Linux to fit on (and all others)
-- Definitly choose LGA sockets (Intel or AMD)
-- Definitly choose So-dimm RAM sockets
-- Definitly choose sata or nvme emplacement (1 minimum)
-
-Want to remove my sh***ty internet provider router too - so we install an 1x PCIe 4 ports Ethernet card
-
-Other extensions like PCIe or LVDS can be add for special applications
-
-**Bang and Olufsen and me ...**
-Long story since I discover their products at 6 years at my parents' house and few others along years. I'm fascinated! Today 
+**B&O influence** — design and reliability as philosophy.
+Build beautiful objects that can be fixed, upgraded and preserved.
+Oak or ebony · Copper · Aluminum.
 
 ![Carousel_Bronze_-_12](https://github.com/trinity-labs/trinity-labs/assets/45216746/7614adaa-4114-4d94-9687-532f39a2ec16)
 
-**Influenced by B&O** design and reliability, I want to built beatiful object than can be easy fixed and upgrade to preserve it's shell, like an **unique object.**
-
-- Use oak or ebony (ideally reused oak)
-- Use lot of copper 
-- Bit of aluminum
-
 ![5415729484_a88c8d22a3_b](https://github.com/trinity-labs/trinity-labs/assets/45216746/60191e70-4a65-4ff2-9e17-6915615b3c37)
-
-
-**Apple Design** not **Apple Philosophy!** But manny "Vintage Things" about it and mostly work of "The Woz". 
 
 ![145767-speakers-review-beoplay-p6-review-image1-hquwo5cakt](https://github.com/trinity-labs/trinity-labs/assets/45216746/46ea2b0d-59c6-4ead-b83a-62f079f5de93)
 
-Final goal is to be able to built a gateway or an AIO PC in **noble materials** and small **limited hand-made production** in Versailles - France.
+Final goal : a gateway or AIO PC in **noble materials** — small limited hand-made production in Versailles, France.
 
-🛠️ **CROWDSOURCING is warmly appreciate - <a href="mailto:trinity.reboot@gmail.com">contact us</a>**
+---
 
-To make it sense, I work on a cool Dashboard for Alpine Linux !
+<br><br>
 
-🟥 Stay Hired on 
+🟪 **2020 — Discovering the Power of Low Powered**
 
-- [Reddit](https://www.reddit.com/r/PocketMainframe/)
-- [Mastodon](https://defcon.social/@trinity)
+Re-use a screen-broken laptop motherboard as a home server, home theater and small NAS.
 
-<br>
+**TOSHIBA P875-101**
+- 4 DDR3 Up to 32Go
+- Intel Core i7 3610QM — 4 Cores | 8 Threads — TDP 45W — *Semi-passive*
+- NVIDIA GeForce GT 640M
+- 3 SATA III · 1 HDMI · 1 LAN · 1 LVDS · 2 USB3
+- Battery removed — Low powered @ 90W power supply
 
-⬛ **New TRINITY Dashboard** get the demo : [[FanlessTech](https://dashboard.trinity-net.com)](https://dashboard.trinity-net.com)
+🧪 <ins>**Prototype 2020**</ins>
 
-<br>
+![Image](https://user-images.githubusercontent.com/45216746/256324634-31182e39-67ad-4231-b7aa-39bce59471ee.jpeg)
 
-![image](https://github.com/user-attachments/assets/41f02acc-7c11-45e9-833d-1d2e80e5af24)
+*Previous config : 2× 500W = 1000W. The contrast speaks for itself.*
 
-<br>
+Since energy costs more and more — it's important to reduce consumption and preserve the planet at our scale 🌳
 
-<img src="https://github.com/user-attachments/assets/9220267a-e4d2-4d97-b282-ef4499b6b866">
+**A virtuous cycle!**
 
-<br>
-<br>
-
-🟪 **2024 UPGRADE** for FTTH<br> 
-
-**AAEON EMB-Q87A**
-- 2 DDR3 16Go G-SKILL
-- Intel Core i7 4785T - 4 Cores | 8 Threads - TDP 35W - Fanless
-- Integrated Graphics up to 1Go
-- **4 SATA III**
-- **1 mSATA III** 
-- 1 HDMI
-- 2 LAN
-- 1 LVDS
-- **4 USB3**
-- **1 PCIe X4** (Needed for GPON Stick Pcie card X4)
-- Standard PC I/O
-- **Low powered @ 160W GAN (Gallium Nitrite) power supply**
-
-🧪 <ins>**Prototype 2024**</ins>
-
-<br>
-<br>
-
-🟫 **Aug 2024** We get a test case before own one
-
-![TESTING CASE](https://github.com/user-attachments/assets/20c648ae-967a-4fa9-8ba7-b5c8af24dca0)
+---
 
 <br>
 
-![WhatsApp Image 2025-02-16 à 14 42 50_b3774ee6](https://github.com/user-attachments/assets/ad8c1d10-9c92-4012-99dc-50656b84db95)
+<div align="center">
+
+🛠️ **Crowdsourcing warmly appreciated** — [contact us](mailto:trinity.reboot@gmail.com)
 
 <br>
 
-🟦 **Oct 2024** TRINITY Gateway become a **boarder router** with **FTTH** from SFR ISP
-
-![TRINITY FTTH](https://github.com/user-attachments/assets/1c838ce0-ced6-48ae-9cb2-64fc517e8862)
-
-<br>
-
-🟨 **Jan 2025** Speedtest - **GPON** fine tunning (XPON when ISP allowing) - NFtables optimizations - **Untag VLAN's** on Alpine system to preserve PON stick - **Wifi 5** optimization - Working on **eBPF XDP**
-
-<div align="center" dir="auto">
-  <img src="https://github.com/user-attachments/assets/fc9bfff0-1685-4a55-b591-e22c19947166" width="100%">
-</div>
-  <br> 
-
-🟪 **2025 Upgrade** TRINITY Project still growing with a CamperVan Low Powered 8V/24V with tracker option
-<br> 
-
-**MITAC PD10-ANI**
-- 1 DDR5 16Go SAMSUNG
-- Intel Core i3 N-305 - 8 Cores | 8 Threads - TDP 9W - Fanless
-- Integrated Graphics up to 1.25Go
-- **1 SATA III**
-- **4 M2** 
-- 1 HDMI
-- 2 LAN 2.5Gbs
-- 1 LVDS
-- **4 USB3**
-- **1 PCIe X1**
-
-🧪 <ins>**Prototype 2025**</ins>
-
-  <br> 
-
-<div align="center" dir="auto">
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/3ca5b6d8-74af-4367-87e6-4f45c15dbcfb" />
-</div>
-<br>
+*Tony BONNIN · Versailles, France · Est. 2020*
 
 **Get wired! 💜**
+
+</div>
