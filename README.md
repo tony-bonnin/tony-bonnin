@@ -98,9 +98,7 @@ Keep hardware in mind with continous devellopement of our future sovereignty, no
 
 <br>
 
-<img width="1402" height="1122" alt="trinity-mainframe" src="https://github.com/user-attachments/assets/4fc6a194-bddf-4a93-b43e-c4aea9179ed6" />
-
-
+<img width="1536" height="1024" alt="trinity-personnal-router" src="https://github.com/user-attachments/assets/d35d60e2-08b6-4f71-ab93-b48952d703fe" />
 
 <br><br>
 
