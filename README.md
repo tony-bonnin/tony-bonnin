@@ -8,7 +8,7 @@
 <br>
 
 # TRINITY Edge Networks 
-*(2026 #FrenchSec StartUp)*
+*(2026 #FrenchStartUp)*
 
 <br>
 
@@ -29,7 +29,7 @@ After years of research, hardware iterations and solo development — **TRINITY*
 
 <br><br>
 
-🟧 **#DownTheBastion** — Sovereign OVH server upgraded to TRINITY infrastructure as a public CTF bastion for bug bounty.
+🟧 **#DownTheBastion** — Sovereign **OVH** server upgraded to **TRINITY infrastructure** as a public CTF bastion for bug bounty.
 Exposed to the internet. No scenario. No hint. No net.
 
 ```
@@ -39,7 +39,7 @@ Successful breaches       0
 
 <br>
 <div align="center">
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/22bf2f35-068a-4ec1-889c-b31747145e0c" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="40%" alt="alpine-linux" src="https://github.com/user-attachments/assets/9c03e2a3-dcd7-47f6-a568-aa5f87b31dd8" />
+<img width="20%" alt="image" src="https://github.com/user-attachments/assets/22bf2f35-068a-4ec1-889c-b31747145e0c" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="18%" alt="alpine-linux" src="https://github.com/user-attachments/assets/9c03e2a3-dcd7-47f6-a568-aa5f87b31dd8" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="14%" alt="xen-project-logo-green" src="https://github.com/user-attachments/assets/68db5a58-cc28-420d-856e-3db8c49c8e0e" />
 </div>
 
 <br><br>
@@ -66,7 +66,7 @@ Single binary · Single port · Xen-aware · OAuth GitHub/GitLab · Real-time me
 <br><br>
 
 🟫 **Continuous downsizing** — Second MITAC PD10-ANI deployed as TRINITY Edge Node.
-9W TDP. Fanless. Full system in RAM. LBU commit.
+9W/15W TDP. Fanless. Full system in RAM. LBU commit.
 
 <br>
 
